@@ -4,3 +4,6 @@ The S&amp;P 500, or simply the S&amp;P, is a stock market index that measures th
 
 The above shows the threshold line on S&P-500 graph 
 
+![newplot](https://user-images.githubusercontent.com/62715739/92801164-fe19b200-f3d2-11ea-8658-af1286501cfc.png)
+
+The above plot shows the Anomaly Prediction on S&P-500 dataset, where maximum abruptions and anomalies were seen in 2018
